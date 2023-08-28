@@ -13,4 +13,4 @@ table.insert(g_cartlike,
     max_count    = 1,
     offset_y 	= -5,
     entity     = "data/entities/props/meatworm.xml"
-})"
+})
