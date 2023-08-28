@@ -1,4 +1,4 @@
-<Entity tags="mortal,hittable,homing_target,teleportable_NOT,lukki,glue_NOT" name="foghorn.mp3">	
+<Entity tags="mortal,hittable,teleportable_NOT,lukki,glue_NOT" name="foghorn.mp3">	
 	<ItemChestComponent level="4" enemy_drop="1" > </ItemChestComponent>
 
 	<!-- art - main body ---------------------- -->
