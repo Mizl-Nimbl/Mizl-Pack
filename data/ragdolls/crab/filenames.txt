@@ -1,0 +1,3 @@
+mods/magepack/data/ragdolls/crab/torso1.png
+mods/magepack/data/ragdolls/crab/claw1.png
+mods/magepack/data/ragdolls/crab/claw2.png

@@ -1,0 +1,4 @@
+mods/magepack/data/ragdolls/meatworm/part_1.png
+mods/magepack/data/ragdolls/meatworm/part_2.png
+mods/magepack/data/ragdolls/meatworm/part_3.png
+mods/magepack/data/ragdolls/meatworm/part_4.png

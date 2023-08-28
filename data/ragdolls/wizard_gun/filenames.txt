@@ -1,0 +1,4 @@
+mods/magepack/data/ragdolls/wizard_gun/torso.png
+mods/magepack/data/ragdolls/wizard_gun/hand.png
+mods/magepack/data/ragdolls/wizard_gun/feet.png
+mods/magepack/data/ragdolls/wizard_gun/head.png

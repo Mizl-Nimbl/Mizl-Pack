@@ -1,0 +1,4 @@
+mods/magepack/data/ragdolls/wizard_haste/torso.png
+mods/magepack/data/ragdolls/wizard_haste/hand.png
+mods/magepack/data/ragdolls/wizard_haste/feet.png
+mods/magepack/data/ragdolls/wizard_haste/head.png

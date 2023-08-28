@@ -1,0 +1,28 @@
+<Entity>
+
+	<TelekinesisComponent
+	  min_size="7"
+	  max_size="125"
+	  radius="250"
+	  throw_speed="300"
+	  target_distance="6"
+	  mInteract="true"
+    ></TelekinesisComponent>
+
+
+
+   <AudioLoopComponent
+      _tags="sound_telekinesis_move"
+      file="data/audio/Desktop/misc.bank"
+      event_name="misc/telekinesis/object_move"
+      volume_autofade_speed="0.05"
+   ></AudioLoopComponent>
+
+   <AudioLoopComponent
+       _tags="sound_telekinesis_hold"
+       file="data/audio/Desktop/misc.bank"
+       event_name="misc/telekinesis/hold"
+       volume_autofade_speed="0.05"
+   ></AudioLoopComponent>
+
+</Entity>

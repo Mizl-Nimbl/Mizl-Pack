@@ -1,0 +1,2 @@
+Fix necro perk sprites
+Make sure necro perk name show up in menu??

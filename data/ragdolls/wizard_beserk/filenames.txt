@@ -1,0 +1,4 @@
+mods/magepack/data/ragdolls/wizard_beserk/torso.png
+mods/magepack/data/ragdolls/wizard_beserk/hand.png
+mods/magepack/data/ragdolls/wizard_beserk/feet.png
+mods/magepack/data/ragdolls/wizard_beserk/head.png
