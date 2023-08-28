@@ -52,8 +52,6 @@ ModLuaFileAppend( "data/scripts/biomes/snowcave.lua", "mods/magepack/files/scrip
 --ModMaterialsFileAdd("mods/magepack/files/materials_append.xml")
 
 -- This code runs when all mods' filesystems are registered
-ModLuaFileAppend( "data/scripts/gun/gun_actions.lua", "mods/example/files/actions.lua" ) -- Basically dofile("mods/example/files/actions.lua") will appear at the end of gun_actions.lua-- Will override some magic numbers using the specified file
 ModRegisterAudioEventMappings( "mods/example/files/audio_events.txt" ) -- Use this to register custom fmod events. Event mapping files can be generated via File -> Export GUIDs in FMOD Studio. -- Adds a new 'rainbow' material to materials
-ModLuaFileAppend( "data/scripts/items/potion.lua", "mods/example/files/potion_appends.lua" )
 
 print("Mizl Pack init done")

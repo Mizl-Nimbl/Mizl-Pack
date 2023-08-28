@@ -126,14 +126,6 @@
 
 		restitution="0.3" >
 	</PhysicsShapeComponent>
-	
-	<CellEaterComponent
-
-		radius="5" 
-
-		eat_probability="100">
-	</CellEaterComponent>
-
 
 	<!-- damage ---------------------- -->
 
