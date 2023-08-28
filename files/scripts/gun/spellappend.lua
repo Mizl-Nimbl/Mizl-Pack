@@ -30,6 +30,7 @@ table.insert(actions,
 	spawn_probability                 = "0.2,0.2,0.2,0.2",
 	price = 100,
 	mana = 60,
+	max_uses = 6,
 	action 		= function()
 	add_projectile("data/entities/projectiles/deck/smart.xml")
 		c.fire_rate_wait = c.fire_rate_wait + 0
@@ -49,7 +50,6 @@ table.insert(actions,
 	spawn_probability                 = "0.2,0.2,0.2,0.2,0.2,0.2",
 	price = 100,
 	mana = 15,
-	max_uses = 6,
 	action 		= function()
 	add_projectile("data/entities/projectiles/deck/targetbolt.xml")
 		c.fire_rate_wait = c.fire_rate_wait + 1
