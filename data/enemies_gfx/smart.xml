@@ -1,0 +1,19 @@
+<Sprite
+ filename="mods/magepack/data/enemies_gfx/foghorn.png"
+ offset_x="6"
+ offset_y="6" 
+ default_animation="stand">
+
+ <!-- stand -->
+ <RectAnimation
+  name="stand"
+  pos_x="0"
+  pos_y="0"
+  frame_count="3"
+  frame_width="12"
+  frame_height="12"
+  frame_wait="0.1"
+  frames_per_row="3"
+  loop="1"   >
+ </RectAnimation>
+</Sprite>
