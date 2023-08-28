@@ -1,0 +1,61 @@
+<Entity name="meatwormy" >
+  <PhysicsBodyComponent
+    uid="1"
+    allow_sleep="1"
+    angular_damping="0"
+    fixed_rotation="0"
+    is_bullet="0"
+    linear_damping="0"
+    auto_clean="0"
+    on_death_leave_physics_body="1" >
+  </PhysicsBodyComponent>
+
+	<DamageModelComponent
+	  air_needed="0"
+	  blood_material="blood"
+	  drop_items_on_death="0"
+	  falling_damage_damage_max="1.2"
+	  falling_damage_damage_min="0.1"
+	  falling_damage_height_max="250"
+	  falling_damage_height_min="70"
+	  falling_damages="0"
+	  fire_damage_amount="0.4"
+	  fire_probability_of_ignition="0"
+		critical_damage_resistance="1"
+	  hp="3"
+	  is_on_fire="0"
+	  materials_create_messages="0"
+	  materials_damage="1"
+	  materials_that_damage="fire,lava,acid"
+
+	  materials_how_much_damage="0.0002,0.0001,0.001"
+
+	  ragdoll_filenames_file=""
+
+	  ragdoll_material="meat"
+
+	  >
+		<damage_multipliers
+
+			melee="0.1"
+
+		>
+		</damage_multipliers>
+	</DamageModelComponent>
+  <PhysicsImageShapeComponent
+
+    body_id="1"
+
+    centered="1"
+
+    image_file="mods/magepack/data/props_gfx/meatwormy.png"
+
+    material="meat" >
+  </PhysicsImageShapeComponent>
+  <CameraBoundComponent
+
+    max_count="50"
+
+    distance="500">
+  </CameraBoundComponent>
+</Entity>"

@@ -1,3 +1,5 @@
 BROKEN: 
 	Clearcut
 	Smart bolt limiter?
+TODO:
+	Altar of Permanence and Wax Cow quest
