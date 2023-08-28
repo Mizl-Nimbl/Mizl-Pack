@@ -45,7 +45,6 @@
   <PhysicsImageShapeComponent
 
     body_id="1"
-
     centered="1"
 
     image_file="mods/magepack/data/props_gfx/meatwormy.png"
@@ -58,4 +57,4 @@
 
     distance="500">
   </CameraBoundComponent>
-</Entity>"
+</Entity>
