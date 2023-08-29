@@ -2,9 +2,6 @@ BROKEN:
 	Clearcut
 	Smart bolt limiter?
 	Wierd alkemisti potion item sprite
-	Sludge ragdoll sprite does not match
 TODO:
 	Altar of Permanence and Wax Cow quest
-	Meat worm Less common, maybe 1/2?
 	Hamis side biome right of coal pits
-	make eating meatworm kill you
