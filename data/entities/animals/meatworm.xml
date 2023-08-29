@@ -85,7 +85,7 @@
 
     ragdoll_filenames_file=""
 
-    ragdoll_material="meat"
+    ragdoll_material="meat_silly"
 
     ragdoll_offset_y="-6"
 	blood_sprite_directional="data/particles/bloodsplatters/bloodsplatter_directional_$[1-3].xml"

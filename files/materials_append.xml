@@ -1,0 +1,19 @@
+<Materials>
+  <CellDataChild
+    _parent="meat"
+    name="meat_silly"
+    ui_name="silly meat"
+    wang_color="ff123457"
+    cell_type="solid"
+    >
+    <Graphics texture_file="data/materials_gfx/meat.png">
+    </Graphics>
+    <StatusEffects>
+      <Ingestion>
+        <StatusEffect type="INGESTION_ON_FIRE" amount="0.5" />
+        <StatusEffect type="INGESTION_FREEZING" amount="0.5" />
+      </Ingestion>
+    </StatusEffects>
+  </CellDataChild>
+</Materials>
+

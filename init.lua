@@ -49,7 +49,7 @@ ModLuaFileAppend( "data/scripts/biomes/mountain/mountain_hall.lua", "mods/magepa
 ModLuaFileAppend( "data/scripts/biomes/lake_statue.lua", "mods/magepack/files/scripts/biomes/lake_statue_append.lua" )
 ModLuaFileAppend( "data/scripts/biomes/snowcave.lua", "mods/magepack/files/scripts/biomes/snowcave_append.lua" )
 
---ModMaterialsFileAdd("mods/magepack/files/materials_append.xml")
+ModMaterialsFileAdd("mods/magepack/files/materials_append.xml")
 
 -- This code runs when all mods' filesystems are registered
 
