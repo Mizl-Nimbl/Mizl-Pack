@@ -1,7 +1,6 @@
 BROKEN: 
-	Clearcut
+	Clearcut STILL BORKEN
 	Smart bolt limiter?
-	Wierd alkemisti potion item sprite
 TODO:
 	Altar of Permanence and Wax Cow quest
 	Hamis side biome right of coal pits

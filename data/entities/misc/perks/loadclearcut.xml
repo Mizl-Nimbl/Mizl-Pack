@@ -1,0 +1,6 @@
+<Entity>
+	<LuaComponent>
+		script_source_file="mods/magepack/data/scripts/perks/clear_cut.lua"
+		execute_every_n_frame="1"
+	</LuaComponent>
+</Entity>

@@ -14,7 +14,7 @@ local last_x = GetValueNumber("last_x", x)
 local last_y = GetValueNumber("last_y", y)
 local vx, vy = x - last_x, y - last_y
 local last_direction = GetValueNumber("last_direction", 0)
-local direction = math.atan2(vy, vx)
+local direction = math.atan(vy, vx)
 if math.abs(vx) + math.abs(vy) > 0.1 then
   direction = rot_lerp(direction, last_direction, 0.05)
 else
