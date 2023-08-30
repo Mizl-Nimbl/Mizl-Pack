@@ -364,7 +364,7 @@ g_potions =
 		prob   		= 0.5,
 		min_count	= 1,
 		max_count	= 1,
-		entity 	= ""
+		entity 	= "data/entities/items/pickup/egg_spiders.xml"
 	},
 }
 
@@ -414,8 +414,7 @@ function spawn_props(x, y)
 end
 
 function spawn_potion_altar(x, y)
-	--spawn(g_potions,x,y)
-	LoadPixelScene( "data/biome_impl/potion_altar.png", "data/biome_impl/potion_altar_visual.png", x-10, y-17, "", true )
+	spawn(g_potions,x,y)
 end
 
 --function spawn_physics_fungus(x, y)
