@@ -3,4 +3,6 @@ BROKEN:
 	Smart bolt limiter?
 TODO:
 	Altar of Permanence and Wax Cow quest
-	Hamis side biome right of coal pits... kinda done?
+	Hamis side biome right of coal pits
+		ADD DIFF HAMIS TYPES
+		ADD PROPS

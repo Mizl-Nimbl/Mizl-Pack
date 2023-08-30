@@ -1,6 +1,6 @@
 <Biome>
   <Topology
-    name="$biome_fungicave"
+    name="HAMIS BASE"
     type="BIOME_WANG_TILE"
     background_image="data/weather_gfx/background_rainforest_dark.png"
     background_edge_left="data/weather_gfx/edges/background_rainforest_dark_left.png"

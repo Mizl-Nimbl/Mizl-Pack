@@ -7,7 +7,6 @@ dofile_once("data/scripts/biome_modifiers.lua")
 dofile_once("data/scripts/biomes/summon_portal_util.lua")
 
 RegisterSpawnFunction( 0xffffeedd, "init" )
-RegisterSpawnFunction( 0xff400000, "spawn_robots" )
 RegisterSpawnFunction( 0xff0000ff, "spawn_nest" )
 RegisterSpawnFunction( 0xff30b3b0, "spawn_physics_fungus" )
 
@@ -305,22 +304,22 @@ g_nest =
 --	},
 --}
 --
---g_props =
---{
---	total_prob = 0,
---	{
---		prob   		= 0.5,
---		min_count	= 0,
---		max_count	= 0,
---		entity 	= ""
---	},
---	{
---		prob   		= 0.5,
---		min_count	= 1,
---		max_count	= 1,
---		entity 	= "data/entities/props/physics_barrel_radioactive.xml"
---	},
---}
+g_props =
+{
+	total_prob = 0,
+	{
+		prob   		= 0.5,
+		min_count	= 0,
+		max_count	= 0,
+		entity 	= "data/entities/props/HUGEHAM.xml"
+	},
+	{
+		prob   		= 0.5,
+		min_count	= 1,
+		max_count	= 1,
+		entity 	= "data/entities/props/hamisclone.xml"
+	},
+}
 --
 --g_ghostlamp =
 --{
