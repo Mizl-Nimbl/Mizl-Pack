@@ -28,55 +28,55 @@ g_small_enemies =
 		prob   		= 0.3,
 		min_count	= 1,
 		max_count	= 3,
-		entity 	= "data/entities/animals/zombie.xml"
+		entity 	= "data/entities/animals/longleg.xml"
 	},
 	{
 		prob   		= 0.1,
 		min_count	= 1,
 		max_count	= 2,
-		entity 	= "data/entities/animals/slimeshooter.xml"
+		entity 	= "data/entities/animals/longleg.xml"
 	},
 	{
 		prob   		= 0.4,
 		min_count	= 1,
 		max_count	= 3,
-		entity 	= "data/entities/animals/rat.xml"
+		entity 	= "data/entities/animals/longleg.xml"
 	},
 		{
 		prob   		= 0.3,
 		min_count	= 1,
 		max_count	= 3,
-		entity 	= "data/entities/animals/fungus.xml"
+		entity 	= "data/entities/animals/longleg.xml"
 	},
 	{
 		prob   		= 0.05,
 		min_count	= 1,
 		max_count	= 2,
-		entity 	= "data/entities/animals/acidshooter.xml"
+		entity 	= "data/entities/animals/longleg.xml"
 	},
 	{
 		prob   		= 0.1,
 		min_count	= 1,
 		max_count	= 2,
-		entity 	= "data/entities/animals/ant.xml"
+		entity 	= "data/entities/animals/longleg.xml"
 	},
 	{
 		prob   		= 0.1,
 		min_count	= 2,
 		max_count	= 4,
-		entity 	= "data/entities/animals/blob.xml"
+		entity 	= "data/entities/animals/longleg.xml"
 	},
 	{
 		prob   		= 0.09,
 		min_count	= 1,
 		max_count	= 2,
-		entity 	= "data/entities/animals/tentacler.xml"
+		entity 	= "data/entities/animals/longleg.xml"
 	},
 	{
 		prob   		= 0.11,
 		min_count	= 1,
 		max_count	= 2,
-		entity 	= "data/entities/animals/tentacler_small.xml"
+		entity 	= "data/entities/animals/longleg_small.xml"
 	},
 	{
 		prob   		= 0.08,
@@ -84,33 +84,33 @@ g_small_enemies =
 		max_count	= 1,
 		entities 	=
 			{
-			"data/entities/animals/tentacler_small.xml",
-			"data/entities/animals/tentacler.xml",
+			"data/entities/animals/longleg.xml",
+			"data/entities/animals/longleg.xml",
 			},
 	},
 	{
 		prob   		= 0.1,
 		min_count	= 1,
 		max_count	= 2,
-		entity 	= "data/entities/animals/wizard_tele.xml"
+		entity 	= "data/entities/animals/longleg.xml"
 	},
 	{
 		prob   		= 0.1,
 		min_count	= 1,
 		max_count	= 1,
-		entity 	= "data/entities/animals/wizard_dark.xml"
+		entity 	= "data/entities/animals/longleg.xml"
 	},
 	{
 		prob   		= 0.07,
 		min_count	= 1,
 		max_count	= 1,
-		entity 	= "data/entities/animals/wizard_swapper.xml"
+		entity 	= "data/entities/animals/longleg.xml"
 	},
 	{
 		prob   		= 0.1,
 		min_count	= 1,
 		max_count	= 1,
-		entity 	= "data/entities/animals/scavenger_invis.xml"
+		entity 	= "data/entities/animals/longleg.xml"
 	},
 	{
 		prob   		= 0.05,
@@ -118,9 +118,9 @@ g_small_enemies =
 		max_count	= 1,
 		entities 	=
 		{
-			"data/entities/animals/frog.xml",
-			"data/entities/animals/frog.xml",
-			"data/entities/animals/frog_big.xml",
+			"data/entities/animals/longleg.xml",
+			"data/entities/animals/longleg.xml",
+			"data/entities/animals/longleg.xml",
 		}
 	},
 }
@@ -143,73 +143,73 @@ g_big_enemies =
 		prob   		= 0.05,
 		min_count	= 1,
 		max_count	= 2,
-		entity 	= "data/entities/animals/thundermage.xml"
+		entity 	= "data/entities/animals/longleg.xml"
 	},
 	{
 		prob   		= 0.4,
 		min_count	= 1,
 		max_count	= 3,
-		entity 	= "data/entities/animals/fungus.xml"
+		entity 	= "data/entities/animals/longleg.xml"
 	},
 	{
 		prob   		= 0.2,
 		min_count	= 1,
 		max_count	= 2,
-		entity 	= "data/entities/animals/acidshooter.xml"
+		entity 	= "data/entities/animals/longleg.xml"
 	},
 	{
 		prob   		= 0.1,
 		min_count	= 1,
 		max_count	= 1,
-		entity 	= "data/entities/animals/giantshooter.xml"
+		entity 	= "data/entities/animals/longleg.xml"
 	},
 	{
 		prob   		= 0.1,
 		min_count	= 3,
 		max_count	= 5,
-		entity 	= "data/entities/animals/blob.xml"
+		entity 	= "data/entities/animals/longleg.xml"
 	},
 	{
 		prob   		= 0.05,
 		min_count	= 1,
 		max_count	= 1,
-		entity 	= "data/entities/animals/bigzombie.xml"
+		entity 	= "data/entities/animals/longleg.xml"
 	},
 	{
 		prob   		= 0.05,
 		min_count	= 1,
 		max_count	= 1,
-		entity 	= "data/entities/animals/wizard_poly.xml"
+		entity 	= "data/entities/animals/longleg.xml"
 	},
 	{
 		prob   		= 0.1,
 		min_count	= 1,
 		max_count	= 1,
-		entity 	= "data/entities/animals/maggot.xml"
+		entity 	= "data/entities/animals/longleg.xml"
 	},
 	{
 		prob   		= 0.2,
 		min_count	= 1,
 		max_count	= 1,
-		entity 	= "data/entities/animals/alchemist.xml"
+		entity 	= "data/entities/animals/longleg.xml"
 	},
 	{
 		prob   		= 0.04,
 		min_count	= 1,
 		max_count	= 1,
-		entity 	= "data/entities/animals/fungus_big.xml"
+		entity 	= "data/entities/animals/longleg.xml"
 	},
 	{
 		prob   		= 0.04,
 		min_count	= 1,
 		max_count	= 1,
-		entity 	= "data/entities/animals/wizard_neutral.xml"
+		entity 	= "data/entities/animals/longleg.xml"
 	},
 	{
 		prob   		= 0.06,
 		min_count	= 1,
 		max_count	= 1,
-		entity 	= "data/entities/animals/wizard_twitchy.xml"
+		entity 	= "data/entities/animals/longleg.xml"
 	},
 	{
 		prob   		= 0.01,
@@ -219,12 +219,12 @@ g_big_enemies =
 			{
 				min_count	= 1,
 				max_count	= 3,
-				entity	= "data/entities/animals/fungus.xml",
+				entity	= "data/entities/animals/longleg.xml",
 			},
 			{
 				min_count	= 1,
 				max_count	= 1,
-				entity	= "data/entities/animals/fungus_big.xml",
+				entity	= "data/entities/animals/longleg.xml",
 			},
 		},
 	},
@@ -232,7 +232,7 @@ g_big_enemies =
 		prob   		= 0.1,
 		min_count	= 1,
 		max_count	= 1,
-		entity 	= "data/entities/animals/drone_shield.xml",
+		entity 	= "data/entities/animals/longleg.xml",
 		ngpluslevel = 2,
 	},
 }
@@ -268,110 +268,72 @@ g_items =
 
 g_nest =
 {
-	total_prob = 0,
 	{
-		prob   		= 0.5,
-		min_count	= 1,
-		max_count	= 1,
-		entity 	= "data/entities/buildings/flynest.xml"
-	},
-	{
-		prob   		= 0.5,
+		prob   		= 1.0,
 		min_count	= 1,
 		max_count	= 1,
 		entity 	= "data/entities/buildings/spidernest.xml"
 	},
 }
-
-g_physics_fungi =
-{
-	total_prob = 0,
-	{
-		prob   		= 1.0,
-		min_count	= 0,
-		max_count	= 0,
-		entity 	= ""
-	},
-	{
-		prob   		= 1.0,
-		min_count	= 1,
-		max_count	= 1,
-		entity 	= "data/entities/props/physics_fungus_small.xml"
-	},
-	{
-		prob   		= 1.0,
-		min_count	= 1,
-		max_count	= 1,
-		entity 	= "data/entities/props/physics_fungus.xml"
-	},
-	{
-		prob   		= 0.5,
-		min_count	= 1,
-		max_count	= 1,
-		entity 	= "data/entities/props/physics_fungus_big.xml"
-	},
-}
-
-------------------- ROBOTS --------------------------
-
-g_robots =
-{
-	total_prob = 0,
-	{
-		prob   		= 0.5,
-		min_count	= 0,
-		max_count	= 0,
-		entity 	= ""
-	},
-	{
-		prob   		= 0.5,
-		min_count	= 1,
-		max_count	= 1,
-		entity 	= "data/entities/animals/roboguard.xml"
-	},
-	{
-		prob   		= 0.5,
-		min_count	= 1,
-		max_count	= 2,
-		entity 	= "data/entities/animals/drone_physics.xml"
-	},
-	{
-		prob   		= 0.01,
-		min_count	= 1,
-		max_count	= 1,
-		entity 	= "data/entities/animals/assassin.xml"
-	},
-}
-
-g_props =
-{
-	total_prob = 0,
-	{
-		prob   		= 0.5,
-		min_count	= 0,
-		max_count	= 0,
-		entity 	= ""
-	},
-	{
-		prob   		= 0.5,
-		min_count	= 1,
-		max_count	= 1,
-		entity 	= "data/entities/props/physics_barrel_radioactive.xml"
-	},
-}
-
-g_ghostlamp =
-{
-	total_prob = 0,
-	-- add skullflys after this step
-	{
-		prob   		= 1.0,
-		min_count	= 1,
-		max_count	= 1,
-		offset_y	= 10,
-		entity 	= "data/entities/props/physics_chain_torch_ghostly.xml"
-	},
-}
+----------------------------------add hamis props
+--g_physics_fungi =
+--{
+--	total_prob = 0,
+--	{
+--		prob   		= 1.0,
+--		min_count	= 0,
+--		max_count	= 0,
+--		entity 	= ""
+--	},
+--	{
+--		prob   		= 1.0,
+--		min_count	= 1,
+--		max_count	= 1,
+--		entity 	= "data/entities/props/physics_fungus_small.xml"
+--	},
+--	{
+--		prob   		= 1.0,
+--		min_count	= 1,
+--		max_count	= 1,
+--		entity 	= "data/entities/props/physics_fungus.xml"
+--	},
+--	{
+--		prob   		= 0.5,
+--		min_count	= 1,
+--		max_count	= 1,
+--		entity 	= "data/entities/props/physics_fungus_big.xml"
+--	},
+--}
+--
+--g_props =
+--{
+--	total_prob = 0,
+--	{
+--		prob   		= 0.5,
+--		min_count	= 0,
+--		max_count	= 0,
+--		entity 	= ""
+--	},
+--	{
+--		prob   		= 0.5,
+--		min_count	= 1,
+--		max_count	= 1,
+--		entity 	= "data/entities/props/physics_barrel_radioactive.xml"
+--	},
+--}
+--
+--g_ghostlamp =
+--{
+--	total_prob = 0,
+--	-- add skullflys after this step
+--	{
+--		prob   		= 1.0,
+--		min_count	= 1,
+--		max_count	= 1,
+--		offset_y	= 10,
+--		entity 	= "data/entities/props/physics_chain_torch_ghostly.xml"
+--	},
+--}
 
 g_candles =
 {
@@ -448,22 +410,18 @@ function spawn_nest(x, y)
 	spawn(g_nest,x,y)
 end
 
-function spawn_robots(x, y)
-	spawn(g_robots,x,y)
-end
-
-function spawn_props(x, y)
-	spawn(g_props,x,y)
-end
+--function spawn_props(x, y)
+--	spawn(g_props,x,y)
+--end
 
 function spawn_potion_altar(x, y)
 	--spawn(g_potions,x,y)
 	LoadPixelScene( "data/biome_impl/potion_altar.png", "data/biome_impl/potion_altar_visual.png", x-10, y-17, "", true )
 end
 
-function spawn_physics_fungus(x, y)
-	spawn(g_physics_fungi,x,y)
-end
+--function spawn_physics_fungus(x, y)
+--	spawn(g_physics_fungi,x,y)
+--end
 
 function spawn_lamp(x, y) end
 function load_pixel_scene( x, y ) end
