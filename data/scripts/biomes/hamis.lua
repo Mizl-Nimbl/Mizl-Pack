@@ -409,9 +409,9 @@ function spawn_nest(x, y)
 	spawn(g_nest,x,y)
 end
 
---function spawn_props(x, y)
---	spawn(g_props,x,y)
---end
+function spawn_props(x, y)
+	spawn(g_props,x,y)
+end
 
 function spawn_potion_altar(x, y)
 	--spawn(g_potions,x,y)
