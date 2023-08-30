@@ -65,7 +65,7 @@
 
       material_min="0.57"
 
-      material_name="fungisoil"
+      material_name="soil_lush_dark"
 
       rare_polka_is_boxed="1"
 
@@ -106,7 +106,7 @@
 
       material_min="0.66"
 
-      material_name="sand_static"
+      material_name="sand_static_rainforest_dark"
 
       rare_polka_is_boxed="1"
 
