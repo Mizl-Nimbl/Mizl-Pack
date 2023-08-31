@@ -4,5 +4,4 @@ BROKEN:
 TODO:
 	Altar of Permanence and Wax Cow quest
 	Hamis side biome right of coal pits
-		ADD DIFF HAMIS TYPES
-		ADD PROPS
+		ADD DIFF HAMIS TYPES (1/5 done)

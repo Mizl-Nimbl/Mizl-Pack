@@ -1,4 +1,4 @@
-<Entity name="meatwormy" >
+<Entity name="hamisclone" >
   <PhysicsBodyComponent
     uid="1"
     allow_sleep="1"

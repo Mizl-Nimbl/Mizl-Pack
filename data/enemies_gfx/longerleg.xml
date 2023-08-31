@@ -1,0 +1,235 @@
+<Sprite
+  filename="mods/magepack/data/enemies_gfx/longerleg.png"
+  offset_x="12"
+  offset_y="13"
+  default_animation="stand" >
+
+  <RectAnimation
+    frame_count="6"
+    frame_height="38"
+    frame_wait="0.2"
+    frame_width="24"
+    frames_per_row="8"
+    name="stand"
+    pos_x="0"
+    pos_y="1" >
+
+  </RectAnimation>
+
+  <RectAnimation
+    frame_count="6"
+    frame_height="40"
+    frame_wait="0.082"
+    frame_width="26"
+    frames_per_row="8"
+    name="walk"
+    pos_x="0"
+    pos_y="42"
+    shrink_by_one_pixel="1" >
+
+    <Event
+      check_physics_material="1"
+      frame="2"
+      max_distance="500"
+      name="step"
+      on_finished="0"
+      probability="1" >
+
+    </Event>
+
+    <Event
+      check_physics_material="1"
+      frame="5"
+      max_distance="500"
+      name="step"
+      on_finished="0"
+      probability="1" >
+
+    </Event>
+
+  </RectAnimation>
+
+  <RectAnimation
+    frame_count="6"
+    frame_height="40"
+    frame_wait="0.082"
+    frame_width="26"
+    frames_per_row="8"
+    name="run"
+    pos_x="0"
+    pos_y="42"
+    shrink_by_one_pixel="1" >
+
+    <Event
+      check_physics_material="1"
+      frame="2"
+      max_distance="500"
+      name="step"
+      on_finished="0"
+      probability="1" >
+
+    </Event>
+
+    <Event
+      check_physics_material="1"
+      frame="5"
+      max_distance="500"
+      name="step"
+      on_finished="0"
+      probability="1" >
+
+    </Event>
+
+  </RectAnimation>
+
+  <RectAnimation
+    frame_count="6"
+    frame_height="40"
+    frame_wait="0.082"
+    frame_width="26"
+    frames_per_row="8"
+    name="burn"
+    pos_x="0"
+    pos_y="42"
+    shrink_by_one_pixel="1" >
+
+    <Event
+      check_physics_material="1"
+      frame="2"
+      max_distance="500"
+      name="step"
+      on_finished="0"
+      probability="1" >
+
+    </Event>
+
+    <Event
+      check_physics_material="1"
+      frame="5"
+      max_distance="500"
+      name="step"
+      on_finished="0"
+      probability="1" >
+
+    </Event>
+
+  </RectAnimation>
+
+  <RectAnimation
+    frame_count="3"
+    frame_height="38"
+    frame_wait="0.082"
+    frame_width="24"
+    frames_per_row="8"
+    loop="0"
+    name="jump_up"
+    pos_x="0"
+    pos_y="82" >
+
+    <Event
+      check_physics_material="1"
+      frame="0"
+      max_distance="500"
+      name="jump"
+      on_finished="0"
+      probability="1" >
+
+    </Event>
+
+    <Event
+      check_physics_material="0"
+      frame="0"
+      max_distance="500"
+      name="voc_jump"
+      on_finished="0"
+      probability="1" >
+
+    </Event>
+
+  </RectAnimation>
+
+  <RectAnimation
+    frame_count="3"
+    frame_height="40"
+    frame_wait="0.082"
+    frame_width="26"
+    frames_per_row="8"
+    loop="0"
+    name="jump_fall"
+    pos_x="0"
+    pos_y="122"
+    shrink_by_one_pixel="1" >
+
+  </RectAnimation>
+
+  <RectAnimation
+    frame_count="4"
+    frame_height="38"
+    frame_wait="0.095"
+    frame_width="24"
+    frames_per_row="8"
+    loop="0"
+    name="crouch"
+    pos_x="0"
+    pos_y="162" >
+
+  </RectAnimation>
+
+  <RectAnimation
+    frame_count="5"
+    frame_height="40"
+    frame_wait="0.095"
+    frame_width="26"
+    frames_per_row="8"
+    loop="0"
+    name="attack"
+    pos_x="0"
+    pos_y="202"
+    shrink_by_one_pixel="1" >
+
+    <Event
+      check_physics_material="0"
+      frame="1"
+      max_distance="500"
+      name="bite"
+      on_finished="0"
+      probability="1" >
+
+    </Event>
+
+    <Event
+      check_physics_material="0"
+      frame="0"
+      max_distance="500"
+      name="voc_attack"
+      on_finished="0"
+      probability="1" >
+
+    </Event>
+
+  </RectAnimation>
+
+  <RectAnimation
+    frame_count="5"
+    frame_height="38"
+    frame_wait="0.12"
+    frame_width="24"
+    frames_per_row="8"
+    loop="0"
+    name="eat"
+    pos_x="0"
+    pos_y="242" >
+
+    <Event
+      check_physics_material="0"
+      frame="2"
+      max_distance="500"
+      name="eat"
+      on_finished="0"
+      probability="1" >
+
+    </Event>
+
+  </RectAnimation>
+
+</Sprite>

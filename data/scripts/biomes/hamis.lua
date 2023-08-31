@@ -27,7 +27,7 @@ g_small_enemies =
 		prob   		= 0.3,
 		min_count	= 1,
 		max_count	= 3,
-		entity 	= "data/entities/animals/longleg.xml"
+		entity 	= "data/entities/animals/longerleg.xml"
 	},
 	{
 		prob   		= 0.1,
@@ -91,25 +91,25 @@ g_small_enemies =
 		prob   		= 0.1,
 		min_count	= 1,
 		max_count	= 2,
-		entity 	= "data/entities/animals/longleg.xml"
+		entity 	= "data/entities/animals/longerleg.xml"
 	},
 	{
 		prob   		= 0.1,
 		min_count	= 1,
 		max_count	= 1,
-		entity 	= "data/entities/animals/longleg.xml"
+		entity 	= "data/entities/animals/longerleg.xml"
 	},
 	{
 		prob   		= 0.07,
 		min_count	= 1,
 		max_count	= 1,
-		entity 	= "data/entities/animals/longleg.xml"
+		entity 	= "data/entities/animals/longerleg.xml"
 	},
 	{
 		prob   		= 0.1,
 		min_count	= 1,
 		max_count	= 1,
-		entity 	= "data/entities/animals/longleg.xml"
+		entity 	= "data/entities/animals/longerleg.xml"
 	},
 	{
 		prob   		= 0.05,
@@ -142,67 +142,67 @@ g_big_enemies =
 		prob   		= 0.05,
 		min_count	= 1,
 		max_count	= 2,
-		entity 	= "data/entities/animals/longleg.xml"
+		entity 	= "data/entities/animals/longerleg.xml"
 	},
 	{
 		prob   		= 0.4,
 		min_count	= 1,
 		max_count	= 3,
-		entity 	= "data/entities/animals/longleg.xml"
+		entity 	= "data/entities/animals/longerleg.xml"
 	},
 	{
 		prob   		= 0.2,
 		min_count	= 1,
 		max_count	= 2,
-		entity 	= "data/entities/animals/longleg.xml"
+		entity 	= "data/entities/animals/longerleg.xml"
 	},
 	{
 		prob   		= 0.1,
 		min_count	= 1,
 		max_count	= 1,
-		entity 	= "data/entities/animals/longleg.xml"
+		entity 	= "data/entities/animals/longerleg.xml"
 	},
 	{
 		prob   		= 0.1,
 		min_count	= 3,
 		max_count	= 5,
-		entity 	= "data/entities/animals/longleg.xml"
+		entity 	= "data/entities/animals/longerleg.xml"
 	},
 	{
 		prob   		= 0.05,
 		min_count	= 1,
 		max_count	= 1,
-		entity 	= "data/entities/animals/longleg.xml"
+		entity 	= "data/entities/animals/longerleg.xml"
 	},
 	{
 		prob   		= 0.05,
 		min_count	= 1,
 		max_count	= 1,
-		entity 	= "data/entities/animals/longleg.xml"
+		entity 	= "data/entities/animals/longerleg.xml"
 	},
 	{
 		prob   		= 0.1,
 		min_count	= 1,
 		max_count	= 1,
-		entity 	= "data/entities/animals/longleg.xml"
+		entity 	= "data/entities/animals/longerleg.xml"
 	},
 	{
 		prob   		= 0.2,
 		min_count	= 1,
 		max_count	= 1,
-		entity 	= "data/entities/animals/longleg.xml"
+		entity 	= "data/entities/animals/longerleg.xml"
 	},
 	{
 		prob   		= 0.04,
 		min_count	= 1,
 		max_count	= 1,
-		entity 	= "data/entities/animals/longleg.xml"
+		entity 	= "data/entities/animals/longerleg.xml"
 	},
 	{
 		prob   		= 0.04,
 		min_count	= 1,
 		max_count	= 1,
-		entity 	= "data/entities/animals/longleg.xml"
+		entity 	= "data/entities/animals/longerleg.xml"
 	},
 	{
 		prob   		= 0.06,
