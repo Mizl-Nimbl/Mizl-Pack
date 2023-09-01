@@ -1,0 +1,6 @@
+data/ragdolls/longleglivingnest/head.png
+data/ragdolls/longleglivingnest/torso_right.png
+data/ragdolls/longleglivingnest/torso_left.png
+data/ragdolls/longleglivingnest/right_leg.png
+data/ragdolls/longleglivingnest/left_leg.png
+data/ragdolls/longleglivingnest/wing.png
