@@ -57,19 +57,19 @@ g_small_enemies =
 		prob   		= 0.1,
 		min_count	= 1,
 		max_count	= 2,
-		entity 	= "data/entities/animals/longleg.xml"
+		entity 	= "data/entities/animals/longleglivingnest.xml"
 	},
 	{
 		prob   		= 0.1,
 		min_count	= 2,
 		max_count	= 4,
-		entity 	= "data/entities/animals/longleg.xml"
+		entity 	= "data/entities/animals/longleglivingnest.xml"
 	},
 	{
 		prob   		= 0.09,
 		min_count	= 1,
 		max_count	= 2,
-		entity 	= "data/entities/animals/longleg.xml"
+		entity 	= "data/entities/animals/longleglivingnest.xml"
 	},
 	{
 		prob   		= 0.11,
@@ -184,13 +184,13 @@ g_big_enemies =
 		prob   		= 0.1,
 		min_count	= 1,
 		max_count	= 1,
-		entity 	= "data/entities/animals/longerleg.xml"
+		entity 	= "data/entities/animals/longleglivingnest.xml"
 	},
 	{
 		prob   		= 0.2,
 		min_count	= 1,
 		max_count	= 1,
-		entity 	= "data/entities/animals/longerleg.xml"
+		entity 	= "data/entities/animals/longleglivingnest.xml"
 	},
 	{
 		prob   		= 0.04,
